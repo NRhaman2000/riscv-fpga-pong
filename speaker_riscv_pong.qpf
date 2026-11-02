@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "16.1"
+DATE = "17:45:13  June 17, 2016"
+
+# Revisions
+
+PROJECT_REVISION = "speaker_riscv_pong"
